@@ -1,0 +1,22 @@
+name = input("Enter full name: ")
+title = input("Enter job title: ")
+company = input("Enter company name: ")
+email = input("Enter email: ")
+
+name.strip()
+name.title()
+title.strip()
+title.capitalize()
+company.strip()
+company.title()
+email.strip()
+email.lower()
+if "@" or ".com" or ".in" in email:
+    print("Email is valid")
+
+print("================================")
+print(f"Name: {name}")
+print(f"Job Title: {title}")
+print(f"Company: {company}")
+print(f"Email: {email}")
+print("================================")
