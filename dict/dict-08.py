@@ -1,3 +1,4 @@
+# This program groups server IDs by their region from a list of server dictionaries.
 servers = [
     {"id": "srv-01", "region": "india"},
     {"id": "srv-02", "region": "germany"},
