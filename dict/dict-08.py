@@ -6,13 +6,11 @@ servers = [
     {"id": "srv-05", "region": "germany"},
 ]
 
-region_map = {} 
-for key,value in servers[0].items():
-    if value == "india":
-        region_map[key].append(value)
-    elif value == "germany":
-        region_map[key].append(value)
-    elif value == "usa":
-        region_map[key].append(value)
-        
+region_map = {}
+
+for server in servers:
+    region = server["region"]
+    server_id = server["id"]
+    region_map.setdefault(region, []).append(server_id)
+
 print(region_map)
