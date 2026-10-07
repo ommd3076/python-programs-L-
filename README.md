@@ -65,3 +65,9 @@ cd python-programs-L-
 # Run a specific script
 python assignment-2/task1.py
 `
+
+## Learning Objectives
+
+- Mastering fundamental Python syntax, control flow, and data structures.
+- Practical problem solving with loops, functions, and dictionaries.
+- Practicing clean coding standards and version control workflows.
