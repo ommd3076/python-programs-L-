@@ -36,3 +36,9 @@ Introductory Python practice programs:
 - python-01.py: Syntax and variable fundamentals.
 - python-02.py: Basic arithmetic and operators.
 - python-03.py: Control flow and branching.
+
+## Assignments
+
+### Assignment 2 (ssignment-2/)
+- 	ask1.py: Check whether a given integer is even or odd.
+- 	ask2.py: Calculate the sum of numbers from 1 to 50 using a loop.
