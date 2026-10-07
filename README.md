@@ -45,3 +45,8 @@ Introductory Python practice programs:
 
 ### Assignment 3 (om-assignment-3/)
 - Coursework exercises covering modular programming, algorithmic problem solving, and structured execution.
+
+## Requirements
+
+- Python 3.8 or higher installed on your local machine.
+- Git for version control and repository synchronization.
