@@ -19,3 +19,8 @@ A collection of Python scripts, academic assignments, and practice exercises.
 |-- om-assignment-3/  # Assignment 3 solutions
 \-- README.md
 \
+## Topics Covered
+
+### 1. Dictionaries (\dict/\)
+Collection of programs demonstrating dictionary methods and operations:
+- \dict-01.py\ to \dict-10.py\: Key-value pairs, nested dictionaries, iterations, and dictionary comprehension.
