@@ -50,3 +50,18 @@ Introductory Python practice programs:
 
 - Python 3.8 or higher installed on your local machine.
 - Git for version control and repository synchronization.
+
+## How to Run
+
+Clone the repository and run any program using the Python interpreter:
+
+`ash
+# Clone the repository
+git clone https://github.com/ommd3076/python-programs-L-.git
+
+# Navigate into the project directory
+cd python-programs-L-
+
+# Run a specific script
+python assignment-2/task1.py
+`
