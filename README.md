@@ -42,3 +42,6 @@ Introductory Python practice programs:
 ### Assignment 2 (ssignment-2/)
 - 	ask1.py: Check whether a given integer is even or odd.
 - 	ask2.py: Calculate the sum of numbers from 1 to 50 using a loop.
+
+### Assignment 3 (om-assignment-3/)
+- Coursework exercises covering modular programming, algorithmic problem solving, and structured execution.
