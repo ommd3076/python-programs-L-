@@ -9,3 +9,13 @@ A collection of Python scripts, academic assignments, and practice exercises.
 - [Topics Covered](#topics-covered)
 - [Assignments](#assignments)
 - [How to Run](#how-to-run)
+
+## Repository Structure
+
+\.
+|-- assignment-2/     # Assignment 2 solutions (Loops, conditionals)
+|-- dict/             # Dictionary operations and practice
+|-- functions/        # Functions and modular programming
+|-- om-assignment-3/  # Assignment 3 solutions
+\-- README.md
+\
