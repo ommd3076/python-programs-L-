@@ -71,3 +71,10 @@ python assignment-2/task1.py
 - Mastering fundamental Python syntax, control flow, and data structures.
 - Practical problem solving with loops, functions, and dictionaries.
 - Practicing clean coding standards and version control workflows.
+
+## Author
+
+- **ommd3076**
+
+---
+*Created as part of academic coursework and self-directed practice in Python programming.*
