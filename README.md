@@ -30,3 +30,9 @@ Programs demonstrating user-defined functions:
 - py-fn01.py: Basic function definition and return types.
 - n02.py: Function parameters, arguments, and scope.
 - n03.py: Advanced function implementations and practice.
+
+### 3. Basic Scripts
+Introductory Python practice programs:
+- python-01.py: Syntax and variable fundamentals.
+- python-02.py: Basic arithmetic and operators.
+- python-03.py: Control flow and branching.
